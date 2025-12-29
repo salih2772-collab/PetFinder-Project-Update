@@ -5,5 +5,5 @@ scikit-learn
 xgboost
 Pillow
 shap
-fasttext-official
+fasttext
 joblib
